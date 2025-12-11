@@ -104,4 +104,3 @@ MIT License. Feel free to use, modify, and extend.
 ## 👤 Author
 GitHub: **[@francis-masanja](https://github.com/francis-masanja)**  
 Made with curiosity and creativity.
-```
