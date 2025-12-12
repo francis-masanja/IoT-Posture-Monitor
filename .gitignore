@@ -1,0 +1,33 @@
+# Compiled binaries and libraries
+*.o
+*.a
+*.so
+*.lo
+*.la
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.bin
+
+# Temporary files
+*~
+*.bak
+*.swp
+.DS_Store
+.vscode/
+
+# Build directories
+build/
+dist/
+.pio/
+.venv/
+/tmp/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.*
